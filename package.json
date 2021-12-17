@@ -1,0 +1,12 @@
+{
+  "name": "event-loop",
+  "version": "1.0.0",
+  "description": "Event loop call order tests",
+  "main": "event-loop.js",
+  "type": "module",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "start": "node ./event-loop.js"
+  }
+}
